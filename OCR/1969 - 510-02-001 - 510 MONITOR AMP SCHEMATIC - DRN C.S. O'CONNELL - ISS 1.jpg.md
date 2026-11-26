@@ -36,7 +36,7 @@ Schematic of the Ward-Beck 510 monitor amplifier: transformer-coupled input (T1 
 - **Words (OCR):** 14 in 14 lines: 240i · VC 22 · CNTL; · Ilzzop · JHAIDI · Wezci · 278645 · 72oo/4o · St · NOTES · 510 · MONITOR
 - **Wiring (first pass):** 82 connected wire groups from 555 runs; labelled ends: 699 mm → 240i, VC 22, 72oo/4o; 257 mm → Wezci, 278645, 72oo/4o; 92 mm → Wezci; 58 mm → Ilzzop; 54 mm → Ilzzop
 
-Every curve, box, word and wire group: [1969 - 510-02-001 - 510 MONITOR AMP SCHEMATIC - DRN C.S. O'CONNELL - ISS 1 (traced).json](../SCHEMATICS/1969%20-%20510-02-001%20-%20510%20MONITOR%20AMP%20SCHEMATIC%20-%20DRN%20C.S.%20O%27CONNELL%20-%20ISS%201%20(traced).json) (the CAD file: `1969 - 510-02-001 - 510 MONITOR AMP SCHEMATIC - DRN C.S. O'CONNELL - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1969 - 510-02-001 - 510 MONITOR AMP SCHEMATIC - DRN C.S. O'CONNELL - ISS 1 (traced).json](../SCHEMATICS/1969%20-%20510-02-001%20-%20510%20MONITOR%20AMP%20SCHEMATIC%20-%20DRN%20C.S.%20O%27CONNELL%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1969 - 510-02-001 - 510 MONITOR AMP SCHEMATIC - DRN C.S. O'CONNELL - ISS 1 (traced).dxf`).
 
 ## Full text
 
