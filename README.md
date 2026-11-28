@@ -1,16 +1,12 @@
-# M510 Monitor Amplifier · Unsorted
+# M510 Monitor Amplifier · Amplifiers
 
 Ward-Beck Systems M510, 1969|2. Wiki page: [M510 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M510.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 5 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 4 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 1 |
 
 ## Schematics
@@ -27,7 +23,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 
 - [1969 - 510-02-001 - 510 MONITOR AMP SCHEMATIC - DRN C.S. O'CONNELL - ISS 1.kicad_sch](KICAD/1969%20-%20510-02-001%20-%20510%20MONITOR%20AMP%20SCHEMATIC%20-%20DRN%20C.S.%20O%27CONNELL%20-%20ISS%201.kicad_sch)
 - [M510.kicad_sym](KICAD/M510.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
