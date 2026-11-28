@@ -1,5 +1,5 @@
 # 1969 - 510-02-001 - 510 MONITOR AMP SCHEMATIC - DRN C.S. O'CONNELL - ISS 1.jpg
-Wiki page: [M510](../../../../PAGES/M510.md)
+Wiki page: [M510](../)
 
 
 - **Year:** 1969 (title block date)

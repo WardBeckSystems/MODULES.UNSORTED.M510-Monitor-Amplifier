@@ -1,6 +1,6 @@
 # M510 Monitor Amplifier · Amplifiers
 
-Ward-Beck Systems M510, 1969|2. Wiki page: [M510 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M510.html)
+Ward-Beck Systems M510, 1969|2. Wiki page: [M510 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M510-Monitor-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|
